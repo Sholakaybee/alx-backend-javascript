@@ -21,7 +21,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 0-classroom.js
-  
+   
 1. Let's make some classrooms
 mandatory
 Import the ClassRoom class from 0-classroom.js.
@@ -46,7 +46,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 1-make_classrooms.js
-  
+   
 2. A Course, Getters, and Setters
 mandatory
 Implement a class named HolbertonCourse:
@@ -98,7 +98,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 2-hbtn_course.js
-  
+   
 3. Methods, static methods, computed methods names..... MONEY
 mandatory
 Implement a class named Currency:
@@ -124,7 +124,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 3-currency.js
-  
+   
 4. Pricing
 mandatory
 Import the class Currency from 3-currency.js
@@ -159,7 +159,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 4-pricing.js
-  
+   
 5. A Building
 mandatory
 Implement a class named Building:
@@ -196,7 +196,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 5-building.js
-  
+   
 6. Inheritance
 mandatory
 Import Building from 5-building.js.
@@ -228,7 +228,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 6-sky_high.js
-  
+   
 7. Airport
 mandatory
 Implement a class named Airport:
@@ -255,7 +255,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 7-airport.js
-  
+   
 8. Primitive - Holberton Class
 mandatory
 Implement a class named HolbertonClass:
@@ -283,7 +283,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 8-hbtn_class.js
-  
+   
 9. Hoisting
 mandatory
 Fix this code and make it work.
@@ -389,7 +389,7 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 9-hoisting.js
-  
+   
 10. Vroom
 mandatory
 Implement a class named Car:
@@ -431,5 +431,5 @@ Repo:
 GitHub repository: alx-backend-javascript
 Directory: 0x02-ES6_classes
 File: 10-car.js
-  
+   
 Copyright © 2023 ALX, All rights reserved.
